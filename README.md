@@ -67,7 +67,7 @@ Subjects are sorted by the scheme `x.y - "name"`
 
 Until now, contributions were given to these classes:
 - 1.1 - [Analisi 1](https://github.com/EngPhysPoliMi/1.1-Analisi_1)
-- 1.1 - [Algebra Lineare](https://github.com/EngPhysPoliMi/1.1-Algebra-Lineare)
+- 1.1 - [Algebra Lineare](https://github.com/EngPhysPoliMi/1.1-Algebra_Lineare)
 - 1.1 - [Fondamenti di Telecomunicazioni](https://github.com/EngPhysPoliMi/1.1-Fondamenti_di_telecomunicazioni)
-- 1.1 - [Informatica A](https://github.com/EngPhysPoliMi/1.1-Informatica)
+- 1.1 - [Informatica](https://github.com/EngPhysPoliMi/1.1-Informatica)
 - to be continued...
