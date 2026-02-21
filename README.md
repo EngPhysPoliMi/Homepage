@@ -70,4 +70,28 @@ Until now, contributions were given to these classes:
 - 1.1 - [Algebra Lineare](https://github.com/EngPhysPoliMi/1.1-Algebra_Lineare)
 - 1.1 - [Fondamenti di Telecomunicazioni](https://github.com/EngPhysPoliMi/1.1-Fondamenti_di_telecomunicazioni)
 - 1.1 - [Informatica](https://github.com/EngPhysPoliMi/1.1-Informatica)
+- 1.2 - [Chimica]
+- 1.2 - [Analisi_2]
+- 1.2 - [Fisica 1]
+- 2.1 - [Analisi 3]
+- 2.1 - [Statistica]
+- 2.1 - [Fisica 2]
+- 2.1 - [Meccanica applicata]
+- 2.1 - [Sistemi energetici]
+- 2.2 - [Introduzione alla fisica dei quanti]
+- 2.2 - [Circuiti e misure elettroniche]
+- 2.2 - [Fondamenti di automatica]
+- 3.1 - [Scienza e tecnologie dei materiali]
+- 3.1 - [Fondamenti di elettronica]
+- 3.1 - [Ottica fisica e tecnologie ottiche]
+- 3.1 - [Meccanica dei solidi]
+- 3.1 - [Advanced micro and nanofabrication technologies]
+- 3.1 - [Electron and scanning probe microscopy]
+- 3.2 - [Struttura della materia]
+- 3.2 - [Principi e applicazioni dei laser]
+- 3.2 - [Interazione luce-materia]
+- 3.2 - [Complementi di meccanica quantistica]
+- 3.2 - [Computer assisted optical system design]
+- 3.2 - [Metodi analitici e numerici delle E.D.P.]
+- 3.2 - [Fisica del nucleo]
 - to be continued...
