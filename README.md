@@ -67,18 +67,18 @@ Subjects are sorted by the scheme `x.y - "name"`
 
 Until now, contributions were given to these classes:
 - 1.1 - [Analisi 1](https://github.com/EngPhysPoliMi/1.1-Analisi_1)
-- 1.1 - [Algebra Lineare](https://github.com/EngPhysPoliMi/1.1-Algebra_Lineare)
-- 1.1 - [Fondamenti di Telecomunicazioni](https://github.com/EngPhysPoliMi/1.1-Fondamenti_di_telecomunicazioni)
+- 1.1 - [Algebra lineare](https://github.com/EngPhysPoliMi/1.1-Algebra_Lineare)
+- 1.1 - [Fondamenti di telecomunicazioni](https://github.com/EngPhysPoliMi/1.1-Fondamenti_di_Telecomunicazioni)
 - 1.1 - [Informatica](https://github.com/EngPhysPoliMi/1.1-Informatica)
-- 1.2 - [Chimica]
-- 1.2 - [Analisi_2]
-- 1.2 - [Fisica 1]
-- 2.1 - [Analisi 3]
+- 1.2 - [Chimica](https://github.com/EngPhysPoliMi/1.2-Chimica)
+- 1.2 - [Analisi_2](https://github.com/EngPhysPoliMi/1.2-Analisi_2)
+- 1.2 - [Fisica 1](https://github.com/EngPhysPoliMi/1.2-Fisica_1)
+- 2.1 - [Analisi 3](https://github.com/EngPhysPoliMi/2.1-Analisi_3)
 - 2.1 - [Statistica]
-- 2.1 - [Fisica 2]
-- 2.1 - [Meccanica applicata]
-- 2.1 - [Sistemi energetici]
-- 2.2 - [Introduzione alla fisica dei quanti]
+- 2.1 - [Fisica 2](https://github.com/EngPhysPoliMi/2.1-Fisica_2)
+- 2.1 - [Meccanica applicata](https://github.com/EngPhysPoliMi/2.1-Meccanica_Applicata)
+- 2.1 - [Sistemi energetici](https://github.com/EngPhysPoliMi/2.1-Sistemi_Energetici)
+- 2.2 - [Fisica dei quanti]
 - 2.2 - [Circuiti e misure elettroniche]
 - 2.2 - [Fondamenti di automatica]
 - 3.1 - [Scienza e tecnologie dei materiali]
