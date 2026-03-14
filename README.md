@@ -56,7 +56,7 @@ To request the addition of a new file or resource, follow these steps:
 
 1) Open an Issue: As with requesting a change, click the "Issues" tab.
 2) Click "New Issue".
-3) Drag and drop the file in the issue description with a short definition of what's being added. Click "Submit" when you’re done.
+3) Drag and drop the file in the issue description with a short definition of what's being added and where it should go. Click "Submit" when you’re done.
 
 
 ## Subjects
@@ -85,7 +85,7 @@ Until now, contributions were given to these classes:
 - 3.1 - [Fondamenti di Elettronica](https://github.com/EngPhysPoliMi/3.1-Fondamenti_di_Elettronica)
 - 3.1 - [Meccanica dei Solidi](https://github.com/EngPhysPoliMi/3.1-Meccanica_dei_Solidi)
 - 3.1 - [Ottica Fisica e Tecnologie Ottiche](https://github.com/EngPhysPoliMi/3.1-Ottica_Fisica_e_Tecnologie_Ottiche)
-- 3.1 - [Scienza e Tecnologie dei Materiali](https://github.com/EngPhysPoliMi/3.1-Scienza_e_Tecnologie_dei_Materiali)
+- 3.1 - [Scienza e Tecnologie dei Materiali](https://github.com/EngPhysPoliMi/3.1-Scienza_e_Tecnologia_dei_Materiali)
 - 3.2 - [Complementi di Meccanica Quantistica](https://github.com/EngPhysPoliMi/3.2-Complementi_di_Meccanica_Quantistica)
 - 3.2 - [Computer Assisted Optical System Design](https://github.com/EngPhysPoliMi/M.2-Computer_Assisted_Design)
 - 3.2 - [Fisica del nucleo](https://github.com/EngPhysPoliMi/3.2-Fisica_del_Nucleo)
@@ -111,7 +111,7 @@ Until now, contributions were given to these classes:
 - M.2 - [Advanced Topics in Engineering Physics](https://github.com/EngPhysPoliMi/M.2-Advanced_Topics)
 - M.2 - [Biochip](https://github.com/EngPhysPoliMi/M.2-Biochip)
 - M.2 - [Communication and Argumentation](https://github.com/EngPhysPoliMi/M.2-Communication_and_Argumentation)
-- M.2 - [Computer Assisted Design](https://github.com/EngPhysPoliMi/M.2-Computer_Assisted_Design)
+- M.2 - [Computer Assisted Optical System Design](https://github.com/EngPhysPoliMi/M.2-Computer_Assisted_Optical_System_Design)
 - M.2 - [Electronics](https://github.com/EngPhysPoliMi/M.2-Electronics)
 - M.2 - [Group Theory](https://github.com/EngPhysPoliMi/M.2-Group_Theory)
 - M.2 - [Operator Theory](https://github.com/EngPhysPoliMi/M.2-Operator_Theory)
@@ -119,3 +119,74 @@ Until now, contributions were given to these classes:
 - M.2 - [Quantum Phenomena in Low Dimensional Systems](https://github.com/EngPhysPoliMi/M.2-Quantum_Phenomena)
 - M.2 - [Relativity](https://github.com/EngPhysPoliMi/M.2-Relativity)
 - to be continued...
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Engineering Physics Database Homepage
+
+Benvenuti nella repository (non)ufficiale di [Ingegneria Fisica](https://www.ccs-fisica.polimi.it/en/home)!
+
+Qui potrete trovare una raccolta di appunti, formulari, temi d'esame e altre risorse per aiutarvi a superare gli esami.
+
+Questo progetto è il risultato di molti anni di sforzi da parte di diversi studenti ed è ancora in stato di sviluppo, dunque ogni contributo è ben accetto.
+
+
+## Istruzioni d'uso
+
+Per rendere le risorse veramente accessibili a chiunque, ecco una veloce introduzione a GitHub.
+
+
+### Accesso ai materiali
+
+Non tutti i file possono essere visualizzati in anteprima sulla pagina di GitHub, ma c'è sempre la possibilità di scaricarli sul proprio dispositivo.
+
+#### Scaricare un singolo file
+
+1) Naviga al file utilizzando l'esploratore del repository qui sopra.
+2) Clicca sul file.
+3) Sul lato destro della visualizzazione del file, cerca il pulsante “Download” oppure clicca semplicemente sul pulsante "Raw", poi tasto destro e seleziona "Salva con nome..." per salvare il file sul tuo dispositivo.
+
+
+#### Scaricare un'intera repository
+
+1) Sulla pagina principale della repository, cerca per il pulsante verde "Code".
+2) Cliccalo e seleziona "Download ZIP". Questo scaricherà l'intera repository compressa.
+3) Decomprimere il file .ZIP sul proprio dispositivo per accedere alle risorse.
+
+
+### Contribuire
+
+Potresti voler aggiungere un file, aggiornarne uno, cambiare un nome, aprire una repository su un nuovo argomento del corso, strutturare una repository in modo diverso o qualcos'altro completamente.
+Per fare ciò, bigogna aprire un "problema" che deve essere approvato (risolto) da un admin.
+
+Le modifiche alla struttura, cioè l'apertura di una repository o l'ordinamento generale delle cartelle, devono essere richieste su [questa](https://github.com/EngPhysPoliMi/Homepage) pagina, da considerarsi la repository principale.
+
+Le modifiche ai file e alle cartelle locali devono essere richieste direttamente sulla repository in questione.
+
+Gli utenti avanzati possono scegliere di fare una "pull request", ma è facoltativo.
+
+
+#### Richiedere Modifiche
+
+Se noti errori o pensi che qualcosa debba essere aggiornato negli appunti, sentiti libero di segnalarlo seguendo questi passi:
+
+1) Clicca sulla scheda "Issues" nella parte superiore della repository.
+2) Clicca su "New Issue".
+3) Descrivi la modifica che desideri vedere e fornisci quante più informazioni possibili. Clicca su "Submit" quando hai finito.
+
+
+#### Richiedere il Caricamento di un Nuovo File
+
+Per richiedere l'aggiunta di un nuovo file o risorsa, segui questi passi:
+
+1) Come per richiedere una modifica, clicca sulla scheda "Issues".
+2) Clicca su "New Issue".
+3) Trascina e rilascia il file nella descrizione dell'issue con una breve definizione di ciò che viene aggiunto e dove dovrebbe essere collocato. Clicca su "Submit" quando hai finito.
+
+
+## Materie
+
+Le materie sono ordinate seguendo la logica `x.y - "Nome"`
+- x = (1; 2; 3; M), anno di insegnamento.
+- y = (1; 2), semestre di insegnamento.
+
+Le materie cui è stato dato un contributo sono elencate sopra.
