@@ -66,32 +66,56 @@ Subjects are sorted by the scheme `x.y - "Name"`
 - y = (1; 2), being the semester.
 
 Until now, contributions were given to these classes:
-- 1.1 - [Analisi 1](https://github.com/EngPhysPoliMi/1.1-Analisi_1)
+- 0.0 - [Cheatsheets](https://github.com/EngPhysPoliMi/0.0-Cheatsheets)
 - 1.1 - [Algebra Lineare](https://github.com/EngPhysPoliMi/1.1-Algebra_Lineare)
+- 1.1 - [Analisi 1](https://github.com/EngPhysPoliMi/1.1-Analisi_1)
 - 1.1 - [Fondamenti di Telecomunicazioni](https://github.com/EngPhysPoliMi/1.1-Fondamenti_di_Telecomunicazioni)
 - 1.1 - [Informatica](https://github.com/EngPhysPoliMi/1.1-Informatica)
-- 1.2 - [Chimica](https://github.com/EngPhysPoliMi/1.2-Chimica)
 - 1.2 - [Analisi_2](https://github.com/EngPhysPoliMi/1.2-Analisi_2)
+- 1.2 - [Chimica](https://github.com/EngPhysPoliMi/1.2-Chimica)
 - 1.2 - [Fisica 1](https://github.com/EngPhysPoliMi/1.2-Fisica_1)
 - 2.1 - [Analisi 3](https://github.com/EngPhysPoliMi/2.1-Analisi_3)
-- 2.1 - [Statistica](https://github.com/EngPhysPoliMi/2.1-Statistica)
 - 2.1 - [Fisica 2](https://github.com/EngPhysPoliMi/2.1-Fisica_2)
 - 2.1 - [Meccanica Applicata](https://github.com/EngPhysPoliMi/2.1-Meccanica_Applicata)
 - 2.1 - [Sistemi Energetici](https://github.com/EngPhysPoliMi/2.1-Sistemi_Energetici)
-- 2.2 - [Fisica dei Quanti](https://github.com/EngPhysPoliMi/2.2-Fisica_dei_Quanti)
+- 2.1 - [Statistica](https://github.com/EngPhysPoliMi/2.1-Statistica)
 - 2.2 - [Circuiti e Misure Elettroniche](https://github.com/EngPhysPoliMi/2.2-Circuiti_e_Misure_Elettroniche)
+- 2.2 - [Fisica dei Quanti](https://github.com/EngPhysPoliMi/2.2-Fisica_dei_Quanti)
 - 2.2 - [Fondamenti di Automatica](https://github.com/EngPhysPoliMi/2.2-Fondamenti_di_Automatica)
-- 3.1 - [Scienza e Tecnologie dei Materiali]
-- 3.1 - [Fondamenti di Elettronica]
-- 3.1 - [Ottica Fisica e Tecnologie Ottiche]
-- 3.1 - [Meccanica dei Solidi]
-- 3.1 - [Advanced micro and nanofabrication technologies]
-- 3.1 - [Electron and scanning probe microscopy]
-- 3.2 - [Struttura della materia]
-- 3.2 - [Principi e applicazioni dei laser]
-- 3.2 - [Interazione luce-materia]
-- 3.2 - [Complementi di meccanica quantistica]
-- 3.2 - [Computer assisted optical system design]
-- 3.2 - [Metodi analitici e numerici delle E.D.P.]
-- 3.2 - [Fisica del nucleo]
+- 3.1 - [Fondamenti di Elettronica](https://github.com/EngPhysPoliMi/3.1-Fondamenti_di_Elettronica)
+- 3.1 - [Meccanica dei Solidi](https://github.com/EngPhysPoliMi/3.1-Meccanica_dei_Solidi)
+- 3.1 - [Ottica Fisica e Tecnologie Ottiche](https://github.com/EngPhysPoliMi/3.1-Ottica_Fisica_e_Tecnologie_Ottiche)
+- 3.1 - [Scienza e Tecnologie dei Materiali](https://github.com/EngPhysPoliMi/3.1-Scienza_e_Tecnologie_dei_Materiali)
+- 3.2 - [Complementi di Meccanica Quantistica](https://github.com/EngPhysPoliMi/3.2-Complementi_di_Meccanica_Quantistica)
+- 3.2 - [Computer Assisted Optical System Design](https://github.com/EngPhysPoliMi/M.2-Computer_Assisted_Design)
+- 3.2 - [Fisica del nucleo](https://github.com/EngPhysPoliMi/3.2-Fisica_del_Nucleo)
+- 3.2 - [Interazione Luce-Materia](https://github.com/EngPhysPoliMi/3.2-Interazione_Luce_e_Materia)
+- 3.2 - [Metodi Analitici e Numerici delle E.D.P.](https://github.com/EngPhysPoliMi/3.2-EDP)
+- 3.2 - [Metodi Sperimentali](https://github.com/EngPhysPoliMi/3.2-Metodi_Sperimentali)
+- 3.2 - [Principi e Applicazioni dei Laser](https://github.com/EngPhysPoliMi/3.2-Laser)
+- 3.2 - [Struttura della Materia](https://github.com/EngPhysPoliMi/3.2-Struttura_della_Materia)
+- M.1 - [Atom Optics and Quantum Tecnologies](https://github.com/EngPhysPoliMi/M.1-Atom_Optics)
+- M.1 - [Digital System Design](https://github.com/EngPhysPoliMi/M.1-Digital_System_Design)
+- M.1 - [Integrated and Meta Optics](https://github.com/EngPhysPoliMi/M.1-Integrated_and_Meta_Optics)
+- M.1 - [Magnetism and Superconductivity](https://github.com/EngPhysPoliMi/M.1-Magnetism_and_Superconductivity)
+- M.1 - [Nanoelectronics of Graphene and 2D Materials](https://github.com/EngPhysPoliMi/M.1-Nanoelectronics)
+- M.1 - [Numerical Methods](https://github.com/EngPhysPoliMi/M.1-Numerical_Methods)
+- M.1 - [Photonics and Radiometry](https://github.com/EngPhysPoliMi/M.1-Photonics_and_Radiometry)
+- M.1 - [Physics of Semiconductors](https://github.com/EngPhysPoliMi/M.1-Physics_of_Semiconductors)
+- M.1 - [Quantum Circuits and Devices](https://github.com/EngPhysPoliMi/M.1-Quantum_Circuits_and_Devices)
+- M.1 - [Semiconductors Nanostructures](https://github.com/EngPhysPoliMi/M.1-Semiconductors_Nanostructures)
+- M.1 - [Semiconductors Photonics](https://github.com/EngPhysPoliMi/M.1-Semiconductors_Photonics)
+- M.1 - [Semiconductors Qubits](https://github.com/EngPhysPoliMi/M.1-Semiconductors_Qubits)
+- M.1 - [Solid State Physics](https://github.com/EngPhysPoliMi/M.1-Solid_State_Physics)
+- M.1 - [Ultrafast Physics](https://github.com/EngPhysPoliMi/M.1-Ultrafast_Physics)
+- M.2 - [Advanced Topics in Engineering Physics](https://github.com/EngPhysPoliMi/M.2-Advanced_Topics)
+- M.2 - [Biochip](https://github.com/EngPhysPoliMi/M.2-Biochip)
+- M.2 - [Communication and Argumentation](https://github.com/EngPhysPoliMi/M.2-Communication_and_Argumentation)
+- M.2 - [Computer Assisted Design](https://github.com/EngPhysPoliMi/M.2-Computer_Assisted_Design)
+- M.2 - [Electronics](https://github.com/EngPhysPoliMi/M.2-Electronics)
+- M.2 - [Group Theory](https://github.com/EngPhysPoliMi/M.2-Group_Theory)
+- M.2 - [Operator Theory](https://github.com/EngPhysPoliMi/M.2-Operator_Theory)
+- M.2 - [Quantum Optics and Information](https://github.com/EngPhysPoliMi/M.2-Quantum_Optics_and_Information)
+- M.2 - [Quantum Phenomena in Low Dimensional Systems](https://github.com/EngPhysPoliMi/M.2-Quantum_Phenomena)
+- M.2 - [Relativity](https://github.com/EngPhysPoliMi/M.2-Relativity)
 - to be continued...
