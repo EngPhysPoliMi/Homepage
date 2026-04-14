@@ -96,7 +96,7 @@ Until now, contributions were given to these classes:
 - 3.2 - [Struttura della Materia](https://github.com/EngPhysPoliMi/3.2-Struttura_della_Materia)
 - M.1 - [Atom Optics and Quantum Tecnologies](https://github.com/EngPhysPoliMi/M.1-Atom_Optics)
 - M.1 - [Digital System Design](https://github.com/EngPhysPoliMi/M.1-Digital_System_Design)
-- M.1 - [Integrated and Meta Optics](https://github.com/EngPhysPoliMi/M.1-Integrated_and_Meta_Optics)
+- M.1 - [Integrated and Meta Photonics](https://github.com/EngPhysPoliMi/M.1-Integrated_and_Meta_Photonics)
 - M.1 - [Magnetism and Superconductivity](https://github.com/EngPhysPoliMi/M.1-Magnetism_and_Superconductivity)
 - M.1 - [Nanoelectronics of Graphene and 2D Materials](https://github.com/EngPhysPoliMi/M.1-Nanoelectronics)
 - M.1 - [Numerical Methods](https://github.com/EngPhysPoliMi/M.1-Numerical_Methods)
