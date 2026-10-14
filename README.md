@@ -114,6 +114,7 @@ Until now, contributions were given to these classes:
 - M.2 - [Electronics](https://github.com/EngPhysPoliMi/M.2-Electronics)
 - M.2 - [Group Theory](https://github.com/EngPhysPoliMi/M.2-Group_Theory)
 - M.2 - [Integrated and Meta Photonics](https://github.com/EngPhysPoliMi/M.2-Integrated_and_Meta_Photonics)
+- M.2 - [Microelectronic Technologies](https://github.com/EngPhysPoliMi/M.2-Microelectronic_Technologies)
 - M.2 - [Operator Theory](https://github.com/EngPhysPoliMi/M.2-Operator_Theory)
 - M.2 - [Quantum Optics and Information](https://github.com/EngPhysPoliMi/M.2-Quantum_Optics_and_Information)
 - M.2 - [Quantum Phenomena in Low Dimensional Systems](https://github.com/EngPhysPoliMi/M.2-Quantum_Phenomena)
